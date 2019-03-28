@@ -1,5 +1,5 @@
 ; SD-card marking
-; Kubov V.V. 2014
+; Kubov V.I. 2014
 ;-------------- Read Preference from *.ini ----------------------------
 #iniName$="SDmarking.ini"
 If OpenPreferences(#iniName$)
