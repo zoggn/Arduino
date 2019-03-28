@@ -1,3 +1,4 @@
 Utilite PureBasic-code for PC
-SDmarking - Fill file with specific Marker
-RegistratorReadSD - Read SD-card and decode it content
+SDmarking.pb - Fill file with specific Marker
+RegistratorReadSD.pb - Read SD-card and decode it content
+SDmarking_info.txt - instruction (rus)
