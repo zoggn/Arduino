@@ -1,5 +1,5 @@
 ; Registrator SD-card file Read
-; Kubov V.V. 2016
+; Kubov V.I. 2016
 ;-------------- Read Preference from *.ini ----------------------------
 #iniName$="RegistratorReadSD.ini"
 If OpenPreferences(#iniName$)
